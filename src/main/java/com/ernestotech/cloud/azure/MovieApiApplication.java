@@ -1,4 +1,4 @@
-package com.ernesto.cloud.azure.ecommerce;
+package com.ernestotech.cloud.azure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

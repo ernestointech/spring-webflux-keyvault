@@ -1,9 +1,8 @@
-package com.ernesto.cloud.azure.ecommerce.service;
+package com.ernestotech.cloud.azure.service;
 
 
-import com.ernesto.cloud.azure.ecommerce.client.TmdbClient;
-import com.ernesto.cloud.azure.ecommerce.dto.MoviePageResponseDto;
-import com.ernesto.cloud.azure.ecommerce.dto.MovieResponseDto;
+import com.ernestotech.cloud.azure.client.TmdbClient;
+import com.ernestotech.cloud.azure.dto.MoviePageResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

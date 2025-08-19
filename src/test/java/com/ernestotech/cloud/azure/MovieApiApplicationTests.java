@@ -1,4 +1,4 @@
-package com.ernesto.cloud.azure.ecommerce;
+package com.ernestotech.cloud.azure;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

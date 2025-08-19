@@ -1,10 +1,8 @@
-package com.ernesto.cloud.azure.ecommerce.properties;
+package com.ernestotech.cloud.azure.properties;
 
-import com.ernesto.cloud.azure.ecommerce.model.KeyVaultSecretModel;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.List;
 import java.util.Map;
 
 @Getter

@@ -1,7 +1,7 @@
-package com.ernesto.cloud.azure.ecommerce.controller;
+package com.ernestotech.cloud.azure.controller;
 
-import com.ernesto.cloud.azure.ecommerce.dto.MoviePageResponseDto;
-import com.ernesto.cloud.azure.ecommerce.service.MovieService;
+import com.ernestotech.cloud.azure.dto.MoviePageResponseDto;
+import com.ernestotech.cloud.azure.service.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Mono;

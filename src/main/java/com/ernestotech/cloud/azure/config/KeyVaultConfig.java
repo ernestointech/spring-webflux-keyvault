@@ -1,13 +1,11 @@
-package com.ernesto.cloud.azure.ecommerce.config;
+package com.ernestotech.cloud.azure.config;
 
 import com.azure.identity.ClientSecretCredential;
 import com.azure.identity.ClientSecretCredentialBuilder;
-import com.azure.identity.DefaultAzureCredentialBuilder;
 
-import com.azure.security.keyvault.secrets.SecretAsyncClient;
 import com.azure.security.keyvault.secrets.SecretClient;
 import com.azure.security.keyvault.secrets.SecretClientBuilder;
-import com.ernesto.cloud.azure.ecommerce.properties.KeyVaultProperties;
+import com.ernestotech.cloud.azure.properties.KeyVaultProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
