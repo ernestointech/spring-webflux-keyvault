@@ -1,11 +1,11 @@
-package com.ernestotech.cloud.azure.config;
+package com.ernestointech.cloud.azure.config;
 
 import com.azure.identity.ClientSecretCredential;
 import com.azure.identity.ClientSecretCredentialBuilder;
 
 import com.azure.security.keyvault.secrets.SecretClient;
 import com.azure.security.keyvault.secrets.SecretClientBuilder;
-import com.ernestotech.cloud.azure.properties.KeyVaultProperties;
+import com.ernestointech.cloud.azure.properties.KeyVaultProperties;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

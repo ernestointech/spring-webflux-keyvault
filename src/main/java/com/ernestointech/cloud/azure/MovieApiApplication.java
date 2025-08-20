@@ -1,4 +1,4 @@
-package com.ernestotech.cloud.azure;
+package com.ernestointech.cloud.azure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

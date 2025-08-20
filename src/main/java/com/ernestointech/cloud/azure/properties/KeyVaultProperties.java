@@ -1,4 +1,4 @@
-package com.ernestotech.cloud.azure.properties;
+package com.ernestointech.cloud.azure.properties;
 
 import lombok.Getter;
 import lombok.Setter;

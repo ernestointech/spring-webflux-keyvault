@@ -1,4 +1,4 @@
-package com.ernestotech.cloud.azure.dto;
+package com.ernestointech.cloud.azure.dto;
 
 import lombok.*;
 

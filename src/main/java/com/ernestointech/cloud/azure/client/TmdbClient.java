@@ -1,5 +1,5 @@
-package com.ernestotech.cloud.azure.client;
-import com.ernestotech.cloud.azure.dto.MoviePageResponseDto;
+package com.ernestointech.cloud.azure.client;
+import com.ernestointech.cloud.azure.dto.MoviePageResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

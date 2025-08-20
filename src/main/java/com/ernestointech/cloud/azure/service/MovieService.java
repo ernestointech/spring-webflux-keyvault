@@ -1,8 +1,8 @@
-package com.ernestotech.cloud.azure.service;
+package com.ernestointech.cloud.azure.service;
 
 
-import com.ernestotech.cloud.azure.client.TmdbClient;
-import com.ernestotech.cloud.azure.dto.MoviePageResponseDto;
+import com.ernestointech.cloud.azure.client.TmdbClient;
+import com.ernestointech.cloud.azure.dto.MoviePageResponseDto;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
